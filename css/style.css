@@ -1,6 +1,32 @@
 
-body{
-    font-size:15px;
+body {
+    font-size:18px;
     background:linear-gradient(#99FFCC, #0850bd);
-    
+}
+
+p {
+    font-size: 25px;
+}
+
+.eeeeeee {
+    font-size: 35px;
+    color: yellow;
+}
+
+#error {
+    font-size: 50px;
+    color: red;
+}
+
+#error:active {
+    transition: font-size 12s;
+    font-size: 75px;
+    color: blue;
+    animation-delay: 2s;
+}
+
+.cidades {
+    margin: 5% 8% 20% 10%;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
