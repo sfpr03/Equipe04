@@ -1,12 +1,12 @@
 
 body {
-    font-size:18px;
+    font-size:15px;
     background:linear-gradient(#2ba4d3, #00b7c2);
     
 }
 
 p {
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .eeeeeee {
@@ -33,6 +33,7 @@ p {
 }
 
 p.round3 {
+    
     color: #173f5f;
     border: 2px solid #1564a2;
     border-radius: 12px;
