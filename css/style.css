@@ -1,7 +1,8 @@
 
 body {
     font-size:18px;
-    background:linear-gradient(#99FFCC, #0850bd);
+    background:linear-gradient(#2ba4d3, #00b7c2);
+    
 }
 
 p {
@@ -30,3 +31,23 @@ p {
     text-align: justify;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+p.round3 {
+    color: #173f5f;
+    border: 2px solid #1564a2;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center;
+  }
+
+  img:hover {
+    opacity: 0.8;
+  }
+
+ 
+@media (max-width: 425px) { 
+    .imagem-cidade {
+        width: 80%;
+    }
+}
+
